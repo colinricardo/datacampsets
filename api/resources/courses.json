@@ -1,0 +1,986 @@
+[
+  {
+    "title": "Introduction to Machine Learning - Online Course",
+    "url": "https://www.datacamp.com/courses/introduction-to-machine-learning-with-r/user_bookmarks"
+  },
+  {
+    "title": "Cleaning Data In R",
+    "url": "https://www.datacamp.com/courses/cleaning-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "R Programming Practice - Intermediate",
+    "url": "https://www.datacamp.com/courses/intermediate-r-practice/user_bookmarks"
+  },
+  {
+    "title": "R ggplot2 Tutorial For Data Visualizations",
+    "url": "https://www.datacamp.com/courses/data-visualization-with-ggplot2-2/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Python",
+    "url": "https://www.datacamp.com/courses/intermediate-python/user_bookmarks"
+  },
+  {
+    "title": "Data Visualization with ggplot2 (Part 3)",
+    "url": "https://www.datacamp.com/courses/data-visualization-with-ggplot2-part-3/user_bookmarks"
+  },
+  {
+    "title": "Text Mining: Bag of Words",
+    "url": "https://www.datacamp.com/courses/text-mining-with-bag-of-words-in-r/user_bookmarks"
+  },
+  {
+    "title": "Case Study: Exploring Baseball Pitching Data in R",
+    "url": "https://www.datacamp.com/courses/case-study-exploring-baseball-pitching-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Portfolio Analysis in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Credit Risk Modeling in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-credit-risk-modeling-in-r/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning with caret in R",
+    "url": "https://www.datacamp.com/courses/machine-learning-with-caret-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Databases in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-relational-databases-in-python/user_bookmarks"
+  },
+  {
+    "title": "Manipulating Time Series Data with xts and zoo in R",
+    "url": "https://www.datacamp.com/courses/manipulating-time-series-data-with-xts-and-zoo-in-r/user_bookmarks"
+  },
+  {
+    "title": "Financial Trading in R",
+    "url": "https://www.datacamp.com/courses/financial-trading-in-r/user_bookmarks"
+  },
+  {
+    "title": "Importing and Managing Financial Data in R",
+    "url": "https://www.datacamp.com/courses/importing-and-managing-financial-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Bokeh Data Visualization",
+    "url": "https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh/user_bookmarks"
+  },
+  {
+    "title": "Case Study: Exploratory Data Analysis in R",
+    "url": "https://www.datacamp.com/courses/case-study-exploratory-data-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Importing Data in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-importing-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Importing Data in R",
+    "url": "https://www.datacamp.com/courses/intermediate-importing-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Python Data Science Toolbox (Part 2)",
+    "url": "https://www.datacamp.com/courses/python-data-science-toolbox-part-2/user_bookmarks"
+  },
+  {
+    "title": "Python Data Science Toolbox (Part 1)",
+    "url": "https://www.datacamp.com/courses/python-data-science-toolbox-part-1/user_bookmarks"
+  },
+  {
+    "title": "Statistical Thinking in Python (Part 1)",
+    "url": "https://www.datacamp.com/courses/statistical-thinking-in-python-part-1/user_bookmarks"
+  },
+  {
+    "title": "Statistical Thinking in Python (Part 2)",
+    "url": "https://www.datacamp.com/courses/statistical-thinking-in-python-part-2/user_bookmarks"
+  },
+  {
+    "title": "Statistical Modeling in R (Part 1)",
+    "url": "https://www.datacamp.com/courses/introduction-to-statistical-modeling-in-r/user_bookmarks"
+  },
+  {
+    "title": "Statistical Modeling in R (Part 2)",
+    "url": "https://www.datacamp.com/courses/intermediate-statistical-modeling-in-r/user_bookmarks"
+  },
+  {
+    "title": "Portfolio Analysis in R",
+    "url": "https://www.datacamp.com/courses/intermediate-portfolio-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Importing Data in Python",
+    "url": "https://www.datacamp.com/courses/intermediate-importing-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Importing Data in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-importing-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Pandas Foundations",
+    "url": "https://www.datacamp.com/courses/pandas-foundations/user_bookmarks"
+  },
+  {
+    "title": "Manipulating DataFrames with pandas",
+    "url": "https://www.datacamp.com/courses/manipulating-dataframes-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Merging DataFrames with pandas",
+    "url": "https://www.datacamp.com/courses/merging-dataframes-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Foundations of Inference in R",
+    "url": "https://www.datacamp.com/courses/foundations-of-inference-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Data Visualization in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-data-visualization-in-python/user_bookmarks"
+  },
+  {
+    "title": "Exploratory Data Analysis in R",
+    "url": "https://www.datacamp.com/courses/exploratory-data-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Data in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Unsupervised Learning in R",
+    "url": "https://www.datacamp.com/courses/unsupervised-learning-in-r/user_bookmarks"
+  },
+  {
+    "title": "Visualizing Geospatial Data in R",
+    "url": "https://www.datacamp.com/courses/visualizing-geospatial-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Network Analysis in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-network-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Supervised Learning with scikit-learn",
+    "url": "https://www.datacamp.com/courses/supervised-learning-with-scikit-learn/user_bookmarks"
+  },
+  {
+    "title": "Case Studies: Manipulating Time Series Data in R",
+    "url": "https://www.datacamp.com/courses/case-studies-manipulating-time-series-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Deep Learning in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-deep-learning-in-python/user_bookmarks"
+  },
+  {
+    "title": "Object-Oriented Programming with S3 and R6 in R",
+    "url": "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r/user_bookmarks"
+  },
+  {
+    "title": "Sentiment Analysis in R",
+    "url": "https://www.datacamp.com/courses/sentiment-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Cleaning Data in Python",
+    "url": "https://www.datacamp.com/courses/cleaning-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Unsupervised Learning in Python",
+    "url": "https://www.datacamp.com/courses/unsupervised-learning-in-python/user_bookmarks"
+  },
+  {
+    "title": "Visualizing Time Series Data in R",
+    "url": "https://www.datacamp.com/courses/visualizing-time-series-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Life Insurance Products Valuation in R",
+    "url": "https://www.datacamp.com/courses/life-insurance-products-valuation-in-r/user_bookmarks"
+  },
+  {
+    "title": "Scalable Data Processing in R",
+    "url": "https://www.datacamp.com/courses/scalable-data-processing-in-r/user_bookmarks"
+  },
+  {
+    "title": "Supervised Learning in R: Classification",
+    "url": "https://www.datacamp.com/courses/supervised-learning-in-r-classification/user_bookmarks"
+  },
+  {
+    "title": "String Manipulation with stringr in R",
+    "url": "https://www.datacamp.com/courses/string-manipulation-with-stringr-in-r/user_bookmarks"
+  },
+  {
+    "title": "Writing Efficient R Code",
+    "url": "https://www.datacamp.com/courses/writing-efficient-r-code/user_bookmarks"
+  },
+  {
+    "title": "Forecasting in R",
+    "url": "https://www.datacamp.com/courses/forecasting-in-r/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning with Tree-Based Models in R",
+    "url": "https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-r/user_bookmarks"
+  },
+  {
+    "title": "Spatial Statistics in R",
+    "url": "https://www.datacamp.com/courses/spatial-statistics-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Spark with sparklyr in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-spark-with-sparklyr-in-r/user_bookmarks"
+  },
+  {
+    "title": "Data Types for Data Science in Python",
+    "url": "https://www.datacamp.com/courses/data-types-for-data-science-in-python/user_bookmarks"
+  },
+  {
+    "title": "Sentiment Analysis in R: The Tidy Way",
+    "url": "https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Network Analysis in Python",
+    "url": "https://www.datacamp.com/courses/intermediate-network-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Multiple and Logistic Regression in R",
+    "url": "https://www.datacamp.com/courses/multiple-and-logistic-regression-in-r/user_bookmarks"
+  },
+  {
+    "title": "Inference for Linear Regression in R",
+    "url": "https://www.datacamp.com/courses/inference-for-linear-regression-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Natural Language Processing in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python/user_bookmarks"
+  },
+  {
+    "title": "Building Chatbots in Python",
+    "url": "https://www.datacamp.com/courses/building-chatbots-in-python/user_bookmarks"
+  },
+  {
+    "title": "Extreme Gradient Boosting with XGBoost",
+    "url": "https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost/user_bookmarks"
+  },
+  {
+    "title": "Equity Valuation in R",
+    "url": "https://www.datacamp.com/courses/equity-valuation-in-r/user_bookmarks"
+  },
+  {
+    "title": "Supervised Learning in R: Regression",
+    "url": "https://www.datacamp.com/courses/supervised-learning-in-r-regression/user_bookmarks"
+  },
+  {
+    "title": "Importing and Managing Financial Data in Python",
+    "url": "https://www.datacamp.com/courses/importing-and-managing-financial-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Manipulating Time Series Data in Python",
+    "url": "https://www.datacamp.com/courses/manipulating-time-series-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Time Series Analysis in Python",
+    "url": "https://www.datacamp.com/courses/time-series-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Parallel Programming with Dask in Python",
+    "url": "https://www.datacamp.com/courses/parallel-programming-with-dask-in-python/user_bookmarks"
+  },
+  {
+    "title": "Spatial Analysis with sf and raster in R",
+    "url": "https://www.datacamp.com/courses/spatial-analysis-with-sf-and-raster-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to PySpark",
+    "url": "https://www.datacamp.com/courses/introduction-to-pyspark/user_bookmarks"
+  },
+  {
+    "title": "Network Analysis in R",
+    "url": "https://www.datacamp.com/courses/network-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Case Studies in Statistical Thinking",
+    "url": "https://www.datacamp.com/courses/case-studies-in-statistical-thinking/user_bookmarks"
+  },
+  {
+    "title": "Joining Data in SQL",
+    "url": "https://www.datacamp.com/courses/joining-data-in-postgresql/user_bookmarks"
+  },
+  {
+    "title": "Introduction to the Tidyverse",
+    "url": "https://www.datacamp.com/courses/introduction-to-the-tidyverse/user_bookmarks"
+  },
+  {
+    "title": "Inference for Numerical Data in R",
+    "url": "https://www.datacamp.com/courses/inference-for-numerical-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Visualizing Time Series Data in Python",
+    "url": "https://www.datacamp.com/courses/visualizing-time-series-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Dates and Times in R",
+    "url": "https://www.datacamp.com/courses/working-with-dates-and-times-in-r/user_bookmarks"
+  },
+  {
+    "title": "Python for R Users",
+    "url": "https://www.datacamp.com/courses/python-for-r-users/user_bookmarks"
+  },
+  {
+    "title": "Cluster Analysis in R",
+    "url": "https://www.datacamp.com/courses/cluster-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Portfolio Risk Management in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-portfolio-risk-management-in-python/user_bookmarks"
+  },
+  {
+    "title": "Inference for Categorical Data in R",
+    "url": "https://www.datacamp.com/courses/inference-for-categorical-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Interactive Data Visualization with plotly in R",
+    "url": "https://www.datacamp.com/courses/interactive-data-visualization-with-plotly-in-r/user_bookmarks"
+  },
+  {
+    "title": "Visualizing Big Data with Trelliscope in R",
+    "url": "https://www.datacamp.com/courses/visualizing-big-data-with-trelliscope-in-r/user_bookmarks"
+  },
+  {
+    "title": "Building Dashboards with flexdashboard",
+    "url": "https://www.datacamp.com/courses/building-dashboards-with-flexdashboard/user_bookmarks"
+  },
+  {
+    "title": "Communicating with Data in R (Tidyverse)",
+    "url": "https://www.datacamp.com/courses/communicating-with-data-in-the-tidyverse/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Linear Modeling in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Using MongoDB for Data Science in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python/user_bookmarks"
+  },
+  {
+    "title": "ChIP-seq with Bioconductor in R",
+    "url": "https://www.datacamp.com/courses/chip-seq-with-bioconductor-in-r/user_bookmarks"
+  },
+  {
+    "title": "Joining data with data.table in R",
+    "url": "https://www.datacamp.com/courses/joining-data-with-datatable-in-r/user_bookmarks"
+  },
+  {
+    "title": "purrrfect Your R Code",
+    "url": "https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr/user_bookmarks"
+  },
+  {
+    "title": "Visualization Best Practices in R",
+    "url": "https://www.datacamp.com/courses/visualization-best-practices-in-r/user_bookmarks"
+  },
+  {
+    "title": "Building Dashboards with shinydashboard",
+    "url": "https://www.datacamp.com/courses/building-dashboards-with-shinydashboard/user_bookmarks"
+  },
+  {
+    "title": "Human Resources Analytics: Exploring Employee Data in R",
+    "url": "https://www.datacamp.com/courses/human-resources-analytics-exploring-employee-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Business Process Analytics in R",
+    "url": "https://www.datacamp.com/courses/business-process-analytics-in-r/user_bookmarks"
+  },
+  {
+    "title": "Working with Data in the Tidyverse",
+    "url": "https://www.datacamp.com/courses/working-with-data-in-the-tidyverse/user_bookmarks"
+  },
+  {
+    "title": "Supervised Learning in R: Case Studies",
+    "url": "https://www.datacamp.com/courses/supervised-learning-in-r-case-studies/user_bookmarks"
+  },
+  {
+    "title": "Forecasting Product Demand in R",
+    "url": "https://www.datacamp.com/courses/forecasting-product-demand-in-r/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning for Marketing Analytics in R",
+    "url": "https://www.datacamp.com/courses/machine-learning-for-marketing-analytics-in-r/user_bookmarks"
+  },
+  {
+    "title": "Case Studies: Network Analysis in R",
+    "url": "https://www.datacamp.com/courses/case-studies-network-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Hierarchical and Mixed Effect Models in R",
+    "url": "https://www.datacamp.com/courses/hierarchical-and-mixed-effects-models-in-r/user_bookmarks"
+  },
+  {
+    "title": "Customer Analytics and A/B Testing in Python",
+    "url": "https://www.datacamp.com/courses/customer-analytics-and-ab-testing-in-python/user_bookmarks"
+  },
+  {
+    "title": "Human Resources Analytics: Predicting Employee Churn in",
+    "url": "https://www.datacamp.com/courses/human-resources-analytics-predicting-employee-churn-in-python/user_bookmarks"
+  },
+  {
+    "title": "Parallel Programming in R",
+    "url": "https://www.datacamp.com/courses/parallel-programming-in-r/user_bookmarks"
+  },
+  {
+    "title": "Feature Engineering with PySpark",
+    "url": "https://www.datacamp.com/courses/feature-engineering-with-pyspark/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning with Tree-Based Models in Python",
+    "url": "https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Bioconductor in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-bioconductor-in-r/user_bookmarks"
+  },
+  {
+    "title": "Human Resources Analytics: Predicting Employee Churn in R",
+    "url": "https://www.datacamp.com/courses/human-resources-analytics-predicting-employee-churn-in-r/user_bookmarks"
+  },
+  {
+    "title": "Predicting Customer Churn in Python",
+    "url": "https://www.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python/user_bookmarks"
+  },
+  {
+    "title": "Data Privacy and Anonymization in R",
+    "url": "https://www.datacamp.com/courses/data-privacy-and-anonymization-in-r/user_bookmarks"
+  },
+  {
+    "title": "Nonlinear Modeling in R with GAMs",
+    "url": "https://www.datacamp.com/courses/nonlinear-modeling-in-r-with-gams/user_bookmarks"
+  },
+  {
+    "title": "Bayesian Modeling with RJAGS",
+    "url": "https://www.datacamp.com/courses/bayesian-modeling-with-rjags/user_bookmarks"
+  },
+  {
+    "title": "Structural Equation Modeling with lavaan in R",
+    "url": "https://www.datacamp.com/courses/structural-equation-modeling-with-lavaan-in-r/user_bookmarks"
+  },
+  {
+    "title": "Differential Expression Analysis with limma in R",
+    "url": "https://www.datacamp.com/courses/differential-expression-analysis-with-limma-in-r/user_bookmarks"
+  },
+  {
+    "title": "Factor Analysis in R",
+    "url": "https://www.datacamp.com/courses/factor-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Predictive Analytics in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python/user_bookmarks"
+  },
+  {
+    "title": "Choice Modeling for Marketing in R",
+    "url": "https://www.datacamp.com/courses/choice-modeling-for-marketing-in-r/user_bookmarks"
+  },
+  {
+    "title": "Categorical Data in the Tidyverse",
+    "url": "https://www.datacamp.com/courses/categorical-data-in-the-tidyverse/user_bookmarks"
+  },
+  {
+    "title": "Multivariate Probability Distributions in R",
+    "url": "https://www.datacamp.com/courses/multivariate-probability-distributions-in-r/user_bookmarks"
+  },
+  {
+    "title": "Advanced Deep Learning with Keras",
+    "url": "https://www.datacamp.com/courses/advanced-deep-learning-with-keras/user_bookmarks"
+  },
+  {
+    "title": "Experimental Design in R",
+    "url": "https://www.datacamp.com/courses/experimental-design-in-r/user_bookmarks"
+  },
+  {
+    "title": "Preprocessing for Machine Learning in Python",
+    "url": "https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning for Finance in Python",
+    "url": "https://www.datacamp.com/courses/machine-learning-for-finance-in-python/user_bookmarks"
+  },
+  {
+    "title": "Building Response Models in R",
+    "url": "https://www.datacamp.com/courses/building-response-models-in-r/user_bookmarks"
+  },
+  {
+    "title": "Bayesian Regression Modeling with rstanarm",
+    "url": "https://www.datacamp.com/courses/bayesian-regression-modeling-with-rstanarm/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Python for Finance",
+    "url": "https://www.datacamp.com/courses/introduction-to-python-for-finance/user_bookmarks"
+  },
+  {
+    "title": "Analyzing Survey Data in R",
+    "url": "https://www.datacamp.com/courses/analyzing-survey-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Mixture Models in R",
+    "url": "https://www.datacamp.com/courses/mixture-models-in-r/user_bookmarks"
+  },
+  {
+    "title": "Network Analysis in the Tidyverse",
+    "url": "https://www.datacamp.com/courses/network-analysis-in-the-tidyverse/user_bookmarks"
+  },
+  {
+    "title": "Hyperparameter Tuning in R",
+    "url": "https://www.datacamp.com/courses/hyperparameter-tuning-in-r/user_bookmarks"
+  },
+  {
+    "title": "Interactive Maps with leaflet in R",
+    "url": "https://www.datacamp.com/courses/interactive-maps-with-leaflet-in-r/user_bookmarks"
+  },
+  {
+    "title": "Analyzing Election and Polling Data in R",
+    "url": "https://www.datacamp.com/courses/analyzing-election-and-polling-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "A/B Testing in R",
+    "url": "https://www.datacamp.com/courses/ab-testing-in-r/user_bookmarks"
+  },
+  {
+    "title": "RNA-Seq with Bioconductor in R",
+    "url": "https://www.datacamp.com/courses/rna-seq-with-bioconductor-in-r/user_bookmarks"
+  },
+  {
+    "title": "Analyzing Police Activity with pandas",
+    "url": "https://www.datacamp.com/courses/analyzing-police-activity-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Data Visualization with Seaborn",
+    "url": "https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn/user_bookmarks"
+  },
+  {
+    "title": "Anomaly Detection in R",
+    "url": "https://www.datacamp.com/courses/anomaly-detection-in-r/user_bookmarks"
+  },
+  {
+    "title": "Financial Forecasting in Python",
+    "url": "https://www.datacamp.com/courses/financial-forecasting-in-python/user_bookmarks"
+  },
+  {
+    "title": "Python for MATLAB Users",
+    "url": "https://www.datacamp.com/courses/python-for-matlab-users/user_bookmarks"
+  },
+  {
+    "title": "Visualizing Geospatial Data in Python",
+    "url": "https://www.datacamp.com/courses/visualizing-geospatial-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Biomedical Image Analysis in Python",
+    "url": "https://www.datacamp.com/courses/biomedical-image-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Interactive Data Visualization with rbokeh",
+    "url": "https://www.datacamp.com/courses/interactive-data-visualization-with-rbokeh/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Interactive Data Visualization with plotly in",
+    "url": "https://www.datacamp.com/courses/intermediate-interactive-data-visualization-with-plotly-in-r/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning in the Tidyverse",
+    "url": "https://www.datacamp.com/courses/machine-learning-in-the-tidyverse/user_bookmarks"
+  },
+  {
+    "title": "Predictive Analytics using Networked Data in R",
+    "url": "https://www.datacamp.com/courses/predictive-analytics-using-networked-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Intermediate SQL Server",
+    "url": "https://www.datacamp.com/courses/intermediate-t-sql/user_bookmarks"
+  },
+  {
+    "title": "Web Scraping with Python",
+    "url": "https://www.datacamp.com/courses/web-scraping-with-python/user_bookmarks"
+  },
+  {
+    "title": "Working with Geospatial Data in Python",
+    "url": "https://www.datacamp.com/courses/working-with-geospatial-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Designing and Analyzing Clinical Trials in R",
+    "url": "https://www.datacamp.com/courses/designing-and-analyzing-clinical-trials-in-r/user_bookmarks"
+  },
+  {
+    "title": "Single-Cell RNA-Seq with Bioconductor in R",
+    "url": "https://www.datacamp.com/courses/single-cell-rna-seq-with-bioconductor-in-r/user_bookmarks"
+  },
+  {
+    "title": "Image Processing with Keras in Python",
+    "url": "https://www.datacamp.com/courses/image-processing-with-keras-in-python/user_bookmarks"
+  },
+  {
+    "title": "Linear Algebra for Data Science in R",
+    "url": "https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r/user_bookmarks"
+  },
+  {
+    "title": "Generalized Linear Models in R",
+    "url": "https://www.datacamp.com/courses/generalized-linear-models-in-r/user_bookmarks"
+  },
+  {
+    "title": "Fraud Detection in R",
+    "url": "https://www.datacamp.com/courses/fraud-detection-in-r/user_bookmarks"
+  },
+  {
+    "title": "Analyzing Social Media Data in Python",
+    "url": "https://www.datacamp.com/courses/analyzing-social-media-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "GARCH Models in R",
+    "url": "https://www.datacamp.com/courses/garch-models-in-r/user_bookmarks"
+  },
+  {
+    "title": "Object Oriented Programming in Python",
+    "url": "https://www.datacamp.com/courses/object-oriented-programming-in-python/user_bookmarks"
+  },
+  {
+    "title": "Fraud Detection in Python",
+    "url": "https://www.datacamp.com/courses/fraud-detection-in-python/user_bookmarks"
+  },
+  {
+    "title": "Advanced Dimensionality Reduction in R",
+    "url": "https://www.datacamp.com/courses/advanced-dimensionality-reduction-in-r/user_bookmarks"
+  },
+  {
+    "title": "Customer Segmentation in Python",
+    "url": "https://www.datacamp.com/courses/customer-segmentation-in-python/user_bookmarks"
+  },
+  {
+    "title": "R For SAS Users",
+    "url": "https://www.datacamp.com/courses/r-for-sas-users/user_bookmarks"
+  },
+  {
+    "title": "Intermediate Predictive Analytics in Python",
+    "url": "https://www.datacamp.com/courses/intermediate-predictive-analytics-in-python/user_bookmarks"
+  },
+  {
+    "title": "Analyzing US Census Data in Python",
+    "url": "https://www.datacamp.com/courses/analyzing-us-census-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Big Data Fundamentals with PySpark",
+    "url": "https://www.datacamp.com/courses/big-data-fundamentals-with-pyspark/user_bookmarks"
+  },
+  {
+    "title": "Dimensionality Reduction in Python",
+    "url": "https://www.datacamp.com/courses/dimensionality-reduction-in-python/user_bookmarks"
+  },
+  {
+    "title": "Working With Dates and Times in Python",
+    "url": "https://www.datacamp.com/courses/working-with-dates-and-times-in-python/user_bookmarks"
+  },
+  {
+    "title": "Designing Machine Learning Workflows in Python",
+    "url": "https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python/user_bookmarks"
+  },
+  {
+    "title": "Exploratory Data Analysis in SQL",
+    "url": "https://www.datacamp.com/courses/exploratory-data-analysis-in-sql/user_bookmarks"
+  },
+  {
+    "title": "Writing Efficient Python Code",
+    "url": "https://www.datacamp.com/courses/writing-efficient-python-code/user_bookmarks"
+  },
+  {
+    "title": "Introduction to SQL Server",
+    "url": "https://www.datacamp.com/courses/introduction-to-sql-server/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Text Analysis in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-text-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Feature Engineering for Machine Learning in Python",
+    "url": "https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python/user_bookmarks"
+  },
+  {
+    "title": "PostgreSQL Summary Stats and Window Functions",
+    "url": "https://www.datacamp.com/courses/postgresql-summary-stats-and-window-functions/user_bookmarks"
+  },
+  {
+    "title": "Reporting in SQL",
+    "url": "https://www.datacamp.com/courses/reporting-in-sql/user_bookmarks"
+  },
+  {
+    "title": "Writing Efficient Code with pandas",
+    "url": "https://www.datacamp.com/courses/writing-efficient-code-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Python for Spreadsheet Users",
+    "url": "https://www.datacamp.com/courses/python-for-spreadsheet-users/user_bookmarks"
+  },
+  {
+    "title": "Improving Your Data Visualizations in Python",
+    "url": "https://www.datacamp.com/courses/improving-your-data-visualizations-in-python/user_bookmarks"
+  },
+  {
+    "title": "Cluster Analysis in Python",
+    "url": "https://www.datacamp.com/courses/cluster-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "AI Fundamentals",
+    "url": "https://www.datacamp.com/courses/ai-fundamentals/user_bookmarks"
+  },
+  {
+    "title": "Applying SQL to Real-World Problems",
+    "url": "https://www.datacamp.com/courses/applying-sql-to-real-world-problems/user_bookmarks"
+  },
+  {
+    "title": "Analyzing Marketing Campaigns with pandas",
+    "url": "https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Financial Analytics in Spreadsheets",
+    "url": "https://www.datacamp.com/courses/financial-analytics-in-spreadsheets/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning with PySpark",
+    "url": "https://www.datacamp.com/courses/machine-learning-with-pyspark/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Spark SQL in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-spark-sql-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to TensorFlow in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-tensorflow-in-python/user_bookmarks"
+  },
+  {
+    "title": "Model Validation in Python",
+    "url": "https://www.datacamp.com/courses/model-validation-in-python/user_bookmarks"
+  },
+  {
+    "title": "Hyperparameter Tuning in Python",
+    "url": "https://www.datacamp.com/courses/hyperparameter-tuning-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Data Visualization with Seaborn",
+    "url": "https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn/user_bookmarks"
+  },
+  {
+    "title": "Improving Query Performance in SQL Server",
+    "url": "https://www.datacamp.com/courses/improving-query-performance-in-sql-server/user_bookmarks"
+  },
+  {
+    "title": "Ensemble Methods in Python",
+    "url": "https://www.datacamp.com/courses/ensemble-methods-in-python/user_bookmarks"
+  },
+  {
+    "title": "Exploratory Data Analysis in Python",
+    "url": "https://www.datacamp.com/courses/exploratory-data-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Generalized Linear Models in Python",
+    "url": "https://www.datacamp.com/courses/generalized-linear-models-in-python/user_bookmarks"
+  },
+  {
+    "title": "Data-Driven Decision Making in SQL",
+    "url": "https://www.datacamp.com/courses/data-driven-decision-making-with-sql/user_bookmarks"
+  },
+  {
+    "title": "Data Processing in Shell",
+    "url": "https://www.datacamp.com/courses/data-processing-in-shell/user_bookmarks"
+  },
+  {
+    "title": "Functions for Manipulating Data in SQL Server",
+    "url": "https://www.datacamp.com/courses/functions-for-manipulating-data-in-sql-server/user_bookmarks"
+  },
+  {
+    "title": "Error and uncertainty in spreadsheets",
+    "url": "https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets/user_bookmarks"
+  },
+  {
+    "title": "Analyzing IoT Data in Python",
+    "url": "https://www.datacamp.com/courses/analyzing-iot-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Improving Query Performance in PostgreSQL",
+    "url": "https://www.datacamp.com/courses/improving-query-performance-in-postgresql/user_bookmarks"
+  },
+  {
+    "title": "Practicing Coding Interview Questions in Python",
+    "url": "https://www.datacamp.com/courses/practicing-coding-interview-questions-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Deep Learning with Keras",
+    "url": "https://www.datacamp.com/courses/introduction-to-deep-learning-with-keras/user_bookmarks"
+  },
+  {
+    "title": "Cleaning Data with PySpark",
+    "url": "https://www.datacamp.com/courses/cleaning-data-with-pyspark/user_bookmarks"
+  },
+  {
+    "title": "Experimental Design in Python",
+    "url": "https://www.datacamp.com/courses/experimental-design-in-python/user_bookmarks"
+  },
+  {
+    "title": "Feature Engineering for NLP in Python",
+    "url": "https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python/user_bookmarks"
+  },
+  {
+    "title": "Streamlined Data Ingestion with pandas",
+    "url": "https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Building and Optimizing Triggers in SQL Server",
+    "url": "https://www.datacamp.com/courses/building-and-optimizing-triggers-in-sql-server/user_bookmarks"
+  },
+  {
+    "title": "Winning a Kaggle Competition in Python",
+    "url": "https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python/user_bookmarks"
+  },
+  {
+    "title": "Sentiment Analysis in Python",
+    "url": "https://www.datacamp.com/courses/sentiment-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Image Processing in Python",
+    "url": "https://www.datacamp.com/courses/image-processing-in-python/user_bookmarks"
+  },
+  {
+    "title": "PostgreSQL Functions for Manipulating Data",
+    "url": "https://www.datacamp.com/courses/functions-for-manipulating-data-in-postgresql/user_bookmarks"
+  },
+  {
+    "title": "Time Series Analysis in SQL Server",
+    "url": "https://www.datacamp.com/courses/time-series-analysis-in-sql-server/user_bookmarks"
+  },
+  {
+    "title": "Survey and Measurement Development in R",
+    "url": "https://www.datacamp.com/courses/survey-and-measurement-development-in-r/user_bookmarks"
+  },
+  {
+    "title": "Regular Expressions in Python",
+    "url": "https://www.datacamp.com/courses/regular-expressions-in-python/user_bookmarks"
+  },
+  {
+    "title": "ARIMA Models in Python",
+    "url": "https://www.datacamp.com/courses/arima-models-in-python/user_bookmarks"
+  },
+  {
+    "title": "Dealing with Missing Data in Python",
+    "url": "https://www.datacamp.com/courses/dealing-with-missing-data-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to AWS Boto in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-aws-boto-in-python/user_bookmarks"
+  },
+  {
+    "title": "Machine Translation in Python",
+    "url": "https://www.datacamp.com/courses/machine-translation-in-python/user_bookmarks"
+  },
+  {
+    "title": "Spoken Language Processing in Python",
+    "url": "https://www.datacamp.com/courses/spoken-language-processing-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Portfolio Analysis in Python",
+    "url": "https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-python/user_bookmarks"
+  },
+  {
+    "title": "Practicing Machine Learning Interview Questions in R",
+    "url": "https://www.datacamp.com/courses/practicing-machine-learning-interview-questions-in-r/user_bookmarks"
+  },
+  {
+    "title": "Transactions and Error-Handling in SQL Server",
+    "url": "https://www.datacamp.com/courses/transactions-and-error-handling-in-sql-server/user_bookmarks"
+  },
+  {
+    "title": "Credit Risk Modeling in Python",
+    "url": "https://www.datacamp.com/courses/credit-risk-modeling-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to TensorFlow in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-tensorflow-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Natural Language Processing in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-r/user_bookmarks"
+  },
+  {
+    "title": "Machine Learning for Marketing in Python",
+    "url": "https://www.datacamp.com/courses/machine-learning-for-marketing-in-python/user_bookmarks"
+  },
+  {
+    "title": "Practicing Machine Learning Interview Questions in Python",
+    "url": "https://www.datacamp.com/courses/practicing-machine-learning-interview-questions-in-python/user_bookmarks"
+  },
+  {
+    "title": "Data Manipulation with dplyr",
+    "url": "https://www.datacamp.com/courses/data-manipulation-with-dplyr/user_bookmarks"
+  },
+  {
+    "title": "Pandas Joins for Spreadsheet Users",
+    "url": "https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Writing Functions in R",
+    "url": "https://www.datacamp.com/courses/introduction-to-writing-functions-in-r/user_bookmarks"
+  },
+  {
+    "title": "Analyzing Social Media Data in R",
+    "url": "https://www.datacamp.com/courses/analyzing-social-media-data-in-r/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Data Visualization with ggplot2",
+    "url": "https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2/user_bookmarks"
+  },
+  {
+    "title": "Practicing Statistics Interview Questions in R",
+    "url": "https://www.datacamp.com/courses/practicing-statistics-interview-questions-in-r/user_bookmarks"
+  },
+  {
+    "title": "Joining Data with dplyr",
+    "url": "https://www.datacamp.com/courses/joining-data-with-dplyr-01e2a153-6da4-4113-bb99-62574cda1aeb/user_bookmarks"
+  },
+  {
+    "title": "Predicting CTR with Machine Learning in Python",
+    "url": "https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python/user_bookmarks"
+  },
+  {
+    "title": "Database Design",
+    "url": "https://www.datacamp.com/courses/database-design/user_bookmarks"
+  },
+  {
+    "title": "Data Manipulation with pandas",
+    "url": "https://www.datacamp.com/courses/data-manipulation-with-pandas/user_bookmarks"
+  },
+  {
+    "title": "Dimensionality Reduction in R",
+    "url": "https://www.datacamp.com/courses/dimensionality-reduction-in-r/user_bookmarks"
+  },
+  {
+    "title": "Time Series with data.table in R",
+    "url": "https://www.datacamp.com/courses/time-series-with-datatable-in-r/user_bookmarks"
+  },
+  {
+    "title": "Recurrent Neural Networks for Language Modeling in Python",
+    "url": "https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python/user_bookmarks"
+  },
+  {
+    "title": "Market basket analysis in R",
+    "url": "https://www.datacamp.com/courses/market-basket-analysis-in-r/user_bookmarks"
+  },
+  {
+    "title": "Building Web Applications with Shiny in R",
+    "url": "https://www.datacamp.com/courses/building-web-applications-with-shiny-in-r/user_bookmarks"
+  },
+  {
+    "title": "Quantitative Risk Management in Python",
+    "url": "https://www.datacamp.com/courses/quantitative-risk-management-in-python/user_bookmarks"
+  },
+  {
+    "title": "Natural Language Generation in Python",
+    "url": "https://www.datacamp.com/courses/natural-language-generation-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Oracle SQL",
+    "url": "https://www.datacamp.com/courses/introduction-to-oracle-sql/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Bash Scripting",
+    "url": "https://www.datacamp.com/courses/introduction-to-bash-scripting/user_bookmarks"
+  },
+  {
+    "title": "GARCH Models in Python",
+    "url": "https://www.datacamp.com/courses/garch-models-in-python/user_bookmarks"
+  },
+  {
+    "title": "Introduction to Tableau",
+    "url": "https://www.datacamp.com/courses/introduction-to-tableau/user_bookmarks"
+  }
+]

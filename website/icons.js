@@ -1,0 +1,21 @@
+// We pluck off the icons we actually use in the project to avoid importing all of the antd icons.
+export { default as Bulb } from "@ant-design/icons/lib/outline/BulbOutline";
+export { default as Download } from "@ant-design/icons/lib/outline/DownloadOutline";
+export { default as ShoppingCart } from "@ant-design/icons/lib/outline/ShoppingCartOutline";
+export { default as Home } from "@ant-design/icons/lib/outline/HomeOutline";
+export { default as Save } from "@ant-design/icons/lib/outline/SaveOutline";
+export { default as Loading } from "@ant-design/icons/lib/outline/LoadingOutline";
+export { default as ExclamationCircle } from "@ant-design/icons/lib/outline/ExclamationCircleOutline";
+export { default as CheckCircle } from "@ant-design/icons/lib/outline/CheckCircleOutline";
+export { default as InfoCircle } from "@ant-design/icons/lib/outline/InfoCircleOutline";
+export { default as Edit } from "@ant-design/icons/lib/outline/EditOutline";
+export { default as BgColors } from "@ant-design/icons/lib/outline/BgColorsOutline";
+export { default as Eye } from "@ant-design/icons/lib/outline/EyeOutline";
+export { default as PlusSquare } from "@ant-design/icons/lib/outline/PlusSquareOutline";
+export { default as BorderOuter } from "@ant-design/icons/lib/outline/BorderOuterOutline";
+export { default as Close } from "@ant-design/icons/lib/outline/CloseOutline";
+export { default as Delete } from "@ant-design/icons/lib/outline/DeleteOutline";
+export { default as Down } from "@ant-design/icons/lib/outline/DownOutline";
+export { default as PauseCircle } from "@ant-design/icons/lib/outline/PauseCircleOutline";
+export { default as PlayCircle } from "@ant-design/icons/lib/outline/PlayCircleOutline";
+export { default as Copy } from "@ant-design/icons/lib/outline/CopyOutline";

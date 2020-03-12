@@ -1,0 +1,9 @@
+export const black = "#1F2D3D";
+export const error = "#FF4949";
+export const success = "#13CE66";
+export const white = "#FFFFFF";
+export const tnsBackground = "#EFF2F6";
+export const tnsGray = "#3A4655";
+export const datacampBlue = "#579BFF";
+export const gray = `#CAD4DF`;
+export const offWhite = `#F3F2F3`;

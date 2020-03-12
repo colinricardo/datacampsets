@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/codecubed/datacampsets.git",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "next -p 3004",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start -p 8080",
+    "lint": "./node_modules/tslint/bin/tslint \"**/*.ts{,x} --fix\"",
+    "analyze": "ANALYZE=true yarn build",
+    "gcp-build": "next build",
+    "deployProd": "gcloud app deploy app.prod.yaml --project=citric-snow-269923 --quiet",
+    "browseProd": "gcloud app browse --project=citric-snow-269923",
+    "logsProd": "gcloud app logs tail --project=citric-snow-269923",
+    "deployStaging": "gcloud app deploy app.staging.yaml --project=TODO --quiet",
+    "browseStaging": "gcloud app browse --project=extended-creek-253113",
+    "logsStaging": "gcloud app logs tail --project=TODO",
+    "deployBoth": "yarn deployProd && yarn deployStaging"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint"
+    }
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^8.1.0",
+    "@types/react": "^16.8.20",
+    "@types/styled-components": "^4.1.16",
+    "@types/uuid": "^3.4.4",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "antd": "^3.20.7",
+    "axios": "^0.19.0",
+    "babel-plugin-import": "^1.12.0",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "date-fns": "^2.2.1",
+    "express": "^4.17.1",
+    "husky": "^2.4.0",
+    "imagemin-optipng": "^7.0.0",
+    "imagemin-svgo": "^7.0.0",
+    "less": "3.9.0",
+    "less-vars-to-js": "^1.3.0",
+    "next": "^9.0.0",
+    "next-antd-aza-less": "^1.0.2",
+    "next-optimized-images": "^2.5.3",
+    "nodemon": "^1.19.1",
+    "null-loader": "^3.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-ga": "^2.7.0",
+    "styled-components": "^5.0.0-beta.6",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}

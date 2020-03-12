@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "prepare": "tsc -p .",
+    "dev": "ts-node-dev --respawn --transpileOnly server.ts",
+    "start": "./node_modules/nodemon/bin/nodemon.js ./build/server.js",
+    "lint": "./node_modules/tslint/bin/tslint \"**/*.ts{,x} --fix\"",
+    "deployProd": "gcloud app deploy app.prod.yaml --project=scientific-air-269923 --version=1 --quiet",
+    "browseProd": "gcloud app browse --project=scientific-air-269923",
+    "logsProd": "gcloud app logs tail --project=scientific-air-269923",
+    "deployStaging": "gcloud app deploy app.staging.yaml --project=TODO --version=1 --quiet",
+    "browseStaging": "gcloud app browse --project=TODO",
+    "logsStaging": "gcloud app logs tail --project=TODO",
+    "gcp-build": "tsc -p .",
+    "deployBoth": "yarn deployProd && yarn deployStaging"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint && tsc"
+    }
+  },
+  "dependencies": {
+    "@google-cloud/logging-winston": "^2.0.1",
+    "@slack/webhook": "^5.0.2",
+    "@types/cors": "^2.8.5",
+    "@types/node": "^12.0.10",
+    "@types/retry": "^0.12.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.4.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1",
+    "retry": "^0.12.0",
+    "stream": "^0.0.2",
+    "typescript": "^3.5.1",
+    "uuid": "^3.3.2",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "husky": "^2.4.0",
+    "ts-node-dev": "^1.0.0-pre.39",
+    "tslint": "^5.17.0"
+  }
+}
